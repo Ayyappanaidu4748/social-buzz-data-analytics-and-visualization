@@ -1,5 +1,5 @@
 # social-buzz-social-data-analytics-and-visualization
-Description:Due to rapid growth in the data transactions such as in the form of text, image, videos and GIFs and less man power at Social Buzz, they need state of the art technology to manage and maintain. For the initial project contract, we need to analysetheir top five(5) content popular categories.
+Description:Due to rapid growth in the data transactions such as in the form of text, image, videos and GIFs and less man power at Social Buzz, they need state of the art technology to manage and maintain. For the initial project contract, we need to analyse their top five(5) content popular categories.
 
 Tools used: Microsoft Office
 
